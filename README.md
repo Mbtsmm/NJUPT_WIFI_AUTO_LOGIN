@@ -4,6 +4,7 @@
 ## 第一行为账号
 ## 第二行为密码
 ## 第三行为网络类型（NJUPT输入1，NJUPT-CMCC输入2，NJUPT-CHINANET输入3）
+## 第四行为连接方式（WiFi连接输入1，有线连接输入2）
 ## 打开main文件夹中的main.exe即可登录WiFi
 ## 可设置开机自启动或连接WiFi后启动，自动登录WiFi
 ## 详情见：
